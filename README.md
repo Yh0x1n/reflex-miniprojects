@@ -1,8 +1,7 @@
 # Reflex Mini-Projects
 
-Curso práctico de **Reflex** — 5 mini proyectos progresivos para aprender
-los fundamentos del framework: componentes, estado, eventos, formularios y
-visualización de datos.
+5 miniproyectos progresivos para aprender
+los componentes básicos de Reflex.
 
 Cada proyecto es un esqueleto completo de Reflex listo para ejecutar. El
 archivo principal de la app contiene **solamente un docstring** con el
@@ -23,12 +22,13 @@ estudiantes escriben el código.
 
 - Python 3.10 o superior
 - Reflex ≥ 0.6.0
+- Pip o UV para manejo de dependencias y entorno virtual
 
 ## Uso
 
 ```bash
 # 1. Clonar el repositorio
-git clone <repo-url>
+git clone https://github.com/Yh0x1n/reflex-miniprojects
 cd reflex-miniprojects
 
 # 2. Entrar a un proyecto e instalar dependencias
